@@ -1,0 +1,8 @@
+apiVersion: devops.xyzcorp.com/v1
+kind: Server
+metadata:
+  name: apple-server-chris
+  nameserver: test
+spec:
+  # Add fields here
+  size: 3
